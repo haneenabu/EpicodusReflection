@@ -1,0 +1,17 @@
+body{
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: fantasy;
+}
+.jumbotron{
+  text-align: center;
+  background-color: inherit;
+}
+img{
+  height: 50%;
+  width: 50%;
+}
+#accomlishments{
+  background-color: hsla(181, 100%, 100%, 0.55);
+}
